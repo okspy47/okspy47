@@ -3,9 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=okspy47" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=okspy47" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ok" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ok" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h4 align="center">"𝙄𝙩’𝙨 𝙖𝙡𝙡 𝙢𝙖𝙙𝙚 𝙤𝙛 0’𝙨 𝙖𝙣𝙙 1’𝙨..."</h4>
 
 ###
 
@@ -70,7 +74,15 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/okspy47/okspy47/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ok/ok/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31zjylax7p264qsujo6fi6xmf33i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 Profile Readme Generator
