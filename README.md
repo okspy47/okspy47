@@ -11,9 +11,9 @@
 
 - 📫 Reach me on **okspy26@gmail.com**
 
-- 📄 Find more about me [https://okspy.codes](https://okspy.codes)
+- 📄 Find more about me [here!](https://okspy.codes)
 
-- ⚡ Fun fact **It’s all 0’s and 1’s.**
+- ⚡ Fun fact: **It’s all 0’s and 1’s.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
