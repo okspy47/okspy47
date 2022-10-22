@@ -79,8 +79,8 @@
 </div>
 
 ###
-
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/okspy47/okspy47/blob/output/snake.svg" alt="Snake animation" />
-
+-->
