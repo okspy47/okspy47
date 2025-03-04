@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is OkSpy and I'm a FiveM & Web Developer from Romania!</h2>
+<h2 align="center">Hi 👋! My name is OkSpy and I'm a System Admin, Python & Web Developer from Romania!</h2>
 
 ###
 
@@ -38,7 +38,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
