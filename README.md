@@ -1,6 +1,6 @@
 # 0x6f6b7370793437  // okspy47
 
-> CEO & Infrastructure Operator @ NEOHOST (AS211281)  
+> CEO & Infrastructure Operator @ neohost.ro (AS211281)  
 > L3 → L7 | Metal → VM | Edge → Core  
 
 Designing, deploying & operating full-stack infrastructure —
