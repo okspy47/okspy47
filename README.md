@@ -21,7 +21,7 @@ from ASN-level routing policy to clustered compute and production hosting.
 
     routing:    eBGP / iBGP
     stack:      BGP | IX | Transit | Peering
-    daemons:    BIRD | MikroTik | JunOS
+    daemons:    BIRD | RouterOS | JunOS
     ip:         IPv4 + IPv6
     security:   RPKI validation | prefix filtering
     design:     multi-homed | traffic engineered
